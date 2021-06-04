@@ -6,6 +6,8 @@ def create_masks(img_folder_path, seg_folder_path, seg_frame_path):
     """
     Creates masks based on the segmented frame found in seg_frame_path.
     """
-    pass
+    #import the images
+    #import the one frame that's segmented
+    
 
 

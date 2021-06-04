@@ -1,5 +1,5 @@
 import os
-import opencv
+import cv2
 
 def split_video(path):
     """
@@ -11,4 +11,3 @@ def split_video(path):
 if __name__ == "__main__":
     filename = "pleural_effusion_clip.mp4"
     split_video(filename)
-    
